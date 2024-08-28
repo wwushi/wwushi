@@ -1,6 +1,3 @@
-[![五拾个人资料浏览量](https://u8views.com/api/v1/github/profiles/24545350/views/day-week-month-total-count.svg)](https://u8views.com/github/wwushi)
-
-
 <h1 align="center">Hi 👋，我是 WuShi</h1>
 <h3 align="center">今天你傅里叶变换了吗？</h3>
 

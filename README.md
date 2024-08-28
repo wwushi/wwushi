@@ -12,4 +12,4 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wwushi&show_icons=true&locale=en" alt="wwushi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wwushi&" alt="wwushi" /></p>
-![](./profile-3d-contrib/profile-gitblock.svg)
+![svg](./profile-3d-contrib/profile-gitblock.svg)
